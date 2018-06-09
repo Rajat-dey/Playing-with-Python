@@ -1,1 +1,1 @@
-Playing with github through CMD
+A complete CNN prototype to find out the category of the image to it's distinct classes based on it's protype
